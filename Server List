@@ -1,5 +1,5 @@
 {
-  "VERSION":"12.7",
+  "VERSION":"12.8",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -363,63 +363,63 @@
       },
          {
        "server_name":"Server 61",
-       "ip":"168.119.97.16",
+       "ip":"95.217.177.61",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 62",
-       "ip":"159.69.250.120",
+       "ip":"95.216.207.25",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 63",
-       "ip":"159.69.49.84",
+       "ip":"95.216.220.6",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 64",
-       "ip":"159.69.116.209",
+       "ip":"95.217.162.127",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 65",
-       "ip":"168.119.182.178",
+       "ip":"95.217.156.242",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 66",
-       "ip":"159.69.250.166",
+       "ip":"95.217.5.51",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 67",
-       "ip":"168.119.155.181",
+       "ip":"95.217.129.71",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 68",
-       "ip":"168.119.157.24",
+       "ip":"95.217.164.248",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 69",
-       "ip":"168.119.179.68",
+       "ip":"95.217.163.94",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       },
          {
        "server_name":"Server 70",
-       "ip":"168.119.179.190",
+       "ip":"95.217.182.186",
        "info":"Premium (Active)",
-       "flag":"sa"
+       "flag":"fin"
       }
   ]
 }
