@@ -1,6 +1,5 @@
 {
-
-  "VERSION":"12.6",
+  "VERSION":"12.7",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -361,6 +360,66 @@
        "ip":"168.119.52.252",
        "info":"Premium (Active)",
        "flag":"ge"
+      },
+         {
+       "server_name":"Server 61",
+       "ip":"168.119.97.16",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 62",
+       "ip":"159.69.250.120",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 63",
+       "ip":"159.69.49.84",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 64",
+       "ip":"159.69.116.209",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 65",
+       "ip":"168.119.182.178",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 66",
+       "ip":"159.69.250.166",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 67",
+       "ip":"168.119.155.181",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 68",
+       "ip":"168.119.157.24",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 69",
+       "ip":"168.119.179.68",
+       "info":"Premium (Active)",
+       "flag":"sa"
+      },
+         {
+       "server_name":"Server 70",
+       "ip":"168.119.179.190",
+       "info":"Premium (Active)",
+       "flag":"sa"
       }
   ]
 }
