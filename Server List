@@ -1,5 +1,5 @@
 {
-  "VERSION":"12.8",
+  "VERSION":"12.9",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -270,36 +270,6 @@
        "ip":"195.201.235.121",
        "info":"Premium (Active)",
        "flag":"ge"
-      },
-       {
-       "server_name":"Server 46",
-       "ip":"157.230.243.76",
-       "info":"Premium (Active)",
-       "flag":"sg"
-      },
-       {
-       "server_name":"Server 47",
-       "ip":"157.230.243.54",
-       "info":"Premium (Active)",
-       "flag":"sg"
-      },
-       {
-       "server_name":"Server 48",
-       "ip":"139.59.252.228",
-       "info":"Premium (Active)",
-       "flag":"sg"
-      },
-       {
-       "server_name":"Server 49",
-       "ip":"157.230.243.75",
-       "info":"Premium (Active)",
-       "flag":"sg"
-      },
-       {
-       "server_name":"Server 50",
-       "ip":"157.230.243.71",
-       "info":"Premium (Active)",
-       "flag":"sg"
       },
         {
        "server_name":"Server 51",
