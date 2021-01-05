@@ -1,5 +1,5 @@
 {
-  "VERSION":"12.9",
+  "VERSION":"13.0",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -151,36 +151,6 @@
        "info":"Premium (Active)",
        "flag":"fin"
       },
-       {
-       "server_name":"🇧🇩 বাংলাদেশ সার্ভার 🇧🇩",
-       "ip":"103.108.140.220",
-       "info":"🇧🇩 শুধুমাত্র বিকাশ এবং ব্রিলিয়ান্ট এর জন্য 🇧🇩",
-       "flag":"bd"
-      },
-       {
-       "server_name":"Server 27",
-       "ip":"49.12.10.126",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-       {
-       "server_name":"Server 28",
-       "ip":"49.12.73.25",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 29",
-       "ip":"168.119.116.15",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 30",
-       "ip":"168.119.116.101",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
         {
        "server_name":"Server 31",
        "ip":"95.217.179.214",
@@ -210,36 +180,6 @@
        "ip":"49.12.110.197",
        "info":"Premium (Active)",
        "flag":"fin"
-      },
-        {
-       "server_name":"Server 36",
-       "ip":"168.119.186.90",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 37",
-       "ip":"168.119.186.89",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 38",
-       "ip":"168.119.186.91",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 39",
-       "ip":"168.119.186.92",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 40",
-       "ip":"168.119.186.93",
-       "info":"Premium (Active)",
-       "flag":"ge"
       },
         {
        "server_name":"Server 41",
@@ -292,42 +232,6 @@
         {
        "server_name":"Server 54",
        "ip":"116.203.118.131",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 55",
-       "ip":"116.203.124.128",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 56",
-       "ip":"195.201.238.137",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 57",
-       "ip":"78.47.118.175",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 58",
-       "ip":"168.119.190.221",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 59",
-       "ip":"168.119.185.7",
-       "info":"Premium (Active)",
-       "flag":"ge"
-      },
-        {
-       "server_name":"Server 60",
-       "ip":"168.119.52.252",
        "info":"Premium (Active)",
        "flag":"ge"
       },
