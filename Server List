@@ -1,5 +1,5 @@
 {
-  "VERSION":"13.1",
+  "VERSION":"13.2",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -62,133 +62,133 @@
        "flag":"uk"
      },
        {
-       "server_name":"Server 20",
+       "server_name":"Server 11",
        "ip":"95.217.219.220",
        "info":"Premium (Active)",
        "flag":"fin"
       },
        {
-       "server_name":"Server 21",
+       "server_name":"Server 12",
        "ip":"95.217.221.88",
        "info":"Premium (Active)",
        "flag":"fin"
       },
        {
-       "server_name":"Server 22",
+       "server_name":"Server 13",
        "ip":"135.181.42.214",
        "info":"Premium (Active)",
        "flag":"fin"
       },
        {
-       "server_name":"Server 23",
+       "server_name":"Server 14",
        "ip":"135.181.32.207",
        "info":"Premium (Active)",
        "flag":"fin"
       },
        {
-       "server_name":"Server 24",
+       "server_name":"Server 15",
        "ip":"135.181.46.247",
        "info":"Premium (Active)",
        "flag":"fin"
       },
        {
-       "server_name":"Server 25",
+       "server_name":"Server 16",
        "ip":"135.181.46.204",
        "info":"Premium (Active)",
        "flag":"fin"
       },
         {
-       "server_name":"Server 31",
+       "server_name":"Server 17",
        "ip":"95.217.179.214",
        "info":"Premium (Active)",
        "flag":"fin"
       },
         {
-       "server_name":"Server 32",
+       "server_name":"Server 18",
        "ip":"49.12.109.244",
        "info":"Premium (Active)",
        "flag":"fin"
       },
         {
-       "server_name":"Server 33",
+       "server_name":"Server 19",
        "ip":"49.12.47.177",
        "info":"Premium (Active)",
        "flag":"fin"
       },
         {
-       "server_name":"Server 34",
+       "server_name":"Server 20",
        "ip":"49.12.47.83",
        "info":"Premium (Active)",
        "flag":"fin"
       },
         {
-       "server_name":"Server 35",
+       "server_name":"Server 21",
        "ip":"49.12.110.197",
        "info":"Premium (Active)",
        "flag":"fin"
       },
         {
-       "server_name":"Server 41",
+       "server_name":"Server 22",
        "ip":"195.201.236.67",
        "info":"Premium (Active)",
        "flag":"ge"
       },
         {
-       "server_name":"Server 42",
+       "server_name":"Server 23",
        "ip":"195.201.236.39",
        "info":"Premium (Active)",
        "flag":"ge"
       },
         {
-       "server_name":"Server 43",
+       "server_name":"Server 24",
        "ip":"195.201.236.38",
        "info":"Premium (Active)",
        "flag":"ge"
       },
         {
-       "server_name":"Server 44",
+       "server_name":"Server 25",
        "ip":"195.201.234.96",
        "info":"Premium (Active)",
        "flag":"ge"
       },
         {
-       "server_name":"Server 45",
+       "server_name":"Server 26",
        "ip":"195.201.235.121",
        "info":"Premium (Active)",
        "flag":"ge"
       },
          {
-       "server_name":"Server 65",
+       "server_name":"Server 27",
        "ip":"95.217.156.242",
        "info":"Premium (Active)",
        "flag":"fin"
       },
          {
-       "server_name":"Server 66",
+       "server_name":"Server 28",
        "ip":"95.217.5.51",
        "info":"Premium (Active)",
        "flag":"fin"
       },
          {
-       "server_name":"Server 67",
+       "server_name":"Server 29",
        "ip":"95.217.129.71",
        "info":"Premium (Active)",
        "flag":"fin"
       },
          {
-       "server_name":"Server 68",
+       "server_name":"Server 30",
        "ip":"95.217.164.248",
        "info":"Premium (Active)",
        "flag":"fin"
       },
          {
-       "server_name":"Server 69",
+       "server_name":"Server 31",
        "ip":"95.217.163.94",
        "info":"Premium (Active)",
        "flag":"fin"
       },
          {
-       "server_name":"Server 70",
+       "server_name":"Server 32",
        "ip":"95.217.182.186",
        "info":"Premium (Active)",
        "flag":"fin"
