@@ -1,5 +1,5 @@
 {
-  "VERSION":"13.3",
+  "VERSION":"13.4",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -76,12 +76,6 @@
        {
        "server_name":"Server 13",
        "ip":"135.181.42.214",
-       "info":"Premium (Active)",
-       "flag":"fin"
-      },
-       {
-       "server_name":"Server 14",
-       "ip":"135.181.32.207",
        "info":"Premium (Active)",
        "flag":"fin"
       },
