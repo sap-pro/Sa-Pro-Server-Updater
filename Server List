@@ -1,89 +1,65 @@
 {
-  "VERSION":"13.5",
+  "VERSION":"13.6",
   "Servers":[
       {
        "server_name":"Server 1",
-       "ip":"93.115.19.80",
+       "ip":"135.181.46.247",
        "info":"Premium (Active)",
-       "flag":"uk"
+       "flag":"fin"
      },
       {
        "server_name":"Server 2",
-       "ip":"93.115.19.89",
+       "ip":"135.181.42.214",
        "info":"Premium (Active)",
-       "flag":"uk"
+       "flag":"fin"
      }, 
       {
        "server_name":"Server 3",
-       "ip":"93.115.19.84",
+       "ip":"95.217.221.88",
        "info":"Premium (Active)",
-       "flag":"uk"
+       "flag":"ge"
      },
       {
        "server_name":"Server 4",
-       "ip":"93.115.19.86",
+       "ip":"95.217.219.220",
        "info":"Premium (Active)",
-       "flag":"uk"
+       "flag":"ge"
      },
       {
        "server_name":"Server 5",
-       "ip":"93.115.19.83",
+       "ip":"135.181.46.247",
        "info":"Premium (Active)",
-       "flag":"uk"
+       "flag":"us"
      },
       {
        "server_name":"Server 6",
-       "ip":"93.115.19.82",
+       "ip":"135.181.42.214",
        "info":"Premium (Active)",
-       "flag":"uk"
+       "flag":"ph"
      },
       {
        "server_name":"Server 7",
-       "ip":"93.115.19.88",
+       "ip":"95.217.221.88",
        "info":"Premium (Active)",
        "flag":"uk"
      },
        {
        "server_name":"Server 8",
-       "ip":"93.115.19.87",
+       "ip":"95.217.219.220",
        "info":"Premium (Active)",
-       "flag":"uk"
+       "flag":"jp"
      },
        {
        "server_name":"Server 9",
-       "ip":"93.115.19.85",
+       "ip":"135.181.46.247",
        "info":"Premium (Active)",
-       "flag":"uk"
+       "flag":"ge"
      },
        {
        "server_name":"Server 10",
-       "ip":"93.115.19.81",
-       "info":"Premium (Active)",
-       "flag":"uk"
-     },
-       {
-       "server_name":"Server 11",
-       "ip":"95.217.219.220",
-       "info":"Premium (Active)",
-       "flag":"fin"
-      },
-       {
-       "server_name":"Server 12",
-       "ip":"95.217.221.88",
-       "info":"Premium (Active)",
-       "flag":"fin"
-      },
-       {
-       "server_name":"Server 13",
        "ip":"135.181.42.214",
        "info":"Premium (Active)",
        "flag":"fin"
-      },
-       {
-       "server_name":"Server 15",
-       "ip":"135.181.46.247",
-       "info":"Premium (Active)",
-       "flag":"fin"
-      }
+     }
   ]
 }
