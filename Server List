@@ -1,5 +1,5 @@
 {
-  "VERSION":"13.8",
+  "VERSION":"13.9",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -50,8 +50,8 @@
        "flag":"jp"
      },
        {
-       "server_name":"Server 9",
-       "ip":"80.240.31.153",
+       "server_name":"Test 0000",
+       "ip":"89.38.135.78",
        "info":"Premium (Active)",
        "flag":"ge"
      },
