@@ -1,5 +1,5 @@
 {
-  "VERSION":"14.0",
+  "VERSION":"14.1",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -50,16 +50,16 @@
        "flag":"jp"
      },
        {
-       "server_name":"Test 100",
+       "server_name":"Zain free",
        "ip":"ecol-zain.responsetek.com.89.38.135.78.wsnepotunnel.xyz",
        "info":"Premium (Active)",
-       "flag":"ws"
+       "flag":"ksa"
      },
        {
-       "server_name":"Test Server",
+       "server_name":"Server 10",
        "ip":"199.247.16.127",
        "info":"Premium (Active)",
-       "flag":"ws"
+       "flag":"ge"
      }
   ]
 }
