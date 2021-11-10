@@ -1,5 +1,5 @@
 {
-  "VERSION":"14.4",
+  "VERSION":"14.5",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -46,7 +46,7 @@
        {
        "server_name":"Server 8",
        "ip":"89.38.135.78",
-       "info":"Premium (Test)",
+       "info":"Premium (Active)",
        "flag":"ge"
      },
        {
