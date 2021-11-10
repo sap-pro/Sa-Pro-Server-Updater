@@ -1,5 +1,5 @@
 {
-  "VERSION":"14.3",
+  "VERSION":"14.4",
   "Servers":[
       {
        "server_name":"Server 1",
@@ -45,7 +45,7 @@
      },
        {
        "server_name":"Server 8",
-       "ip":"www.ooredoo.qa.server2.199.247.16.127.savpn.xyz",
+       "ip":"89.38.135.78",
        "info":"Premium (Test)",
        "flag":"ge"
      },
