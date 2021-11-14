@@ -1,45 +1,45 @@
 {
-  "VERSION":"14.5",
+  "VERSION":"14.6",
   "Servers":[
       {
        "server_name":"Server 1",
-       "ip":"95.179.248.165",
+       "ip":"89.38.135.78",
        "info":"Premium (Active)",
        "flag":"fin"
      },
       {
        "server_name":"Server 2",
-       "ip":"95.179.248.165",
+       "ip":"89.38.135.78",
        "info":"Premium (Active)",
        "flag":"fin"
      }, 
       {
        "server_name":"Server 3",
-       "ip":"95.179.248.165",
+       "ip":"89.38.135.78",
        "info":"Premium (Active)",
        "flag":"ge"
      },
       {
        "server_name":"Server 4",
-       "ip":"95.179.248.165",
+       "ip":"89.38.135.78",
        "info":"Premium (Active)",
        "flag":"ge"
      },
       {
        "server_name":"Server 5",
-       "ip":"95.179.248.165",
+       "ip":"89.38.135.78",
        "info":"Premium (Active)",
        "flag":"us"
      },
       {
        "server_name":"Server 6",
-       "ip":"80.240.31.153",
+       "ip":"89.38.135.78",
        "info":"Premium (Active)",
-       "flag":"ph"
+       "flag":"us"
      },
       {
        "server_name":"Server 7",
-       "ip":"80.240.31.153",
+       "ip":"89.38.135.78",
        "info":"Premium (Active)",
        "flag":"uk"
      },
@@ -50,16 +50,16 @@
        "flag":"ge"
      },
        {
-       "server_name":"Zain free",
-       "ip":"ecol-zain.responsetek.com.89.38.135.78.wsnepotunnel.xyz",
+       "server_name":"Server 9",
+       "ip":"95.179.248.165",
        "info":"Premium (Active)",
-       "flag":"ksa"
+       "flag":"ge"
      },
        {
-       "server_name":"Zain Server",
-       "ip":"ecol-zain.responsetek.com.89.38.135.78.wsnepotunnel.xyz",
+       "server_name":"Server 10",
+       "ip":"80.240.31.153",
        "info":"Premium (Active)",
-       "flag":"ksa"
+       "flag":"ge"
      }
   ]
 }
